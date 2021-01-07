@@ -1,0 +1,16 @@
+{
+    "Product": {
+        // categories, description, season, release date
+        "traits": [
+            {
+                // season, color, release date, retail price
+            }
+        ],
+        "market": {
+            // lowestAsk, numberOfAsks, salesThisPeriod, highestBid, numberofBids, averageDeadstockPrice, deadstockSold, totalDollars
+        },
+        "children": {
+            // almost identical structure for S,M,L,XL
+        }
+    }
+}

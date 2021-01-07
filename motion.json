@@ -1,0 +1,649 @@
+{
+    "Product": {
+        "id": "53c34b84-bc33-4214-abbb-6d9a47920f40",
+        "uuid": "53c34b84-bc33-4214-abbb-6d9a47920f40",
+        "brand": "Supreme",
+        "condition": "New",
+        "countryOfManufacture": "US",
+        "gender": "men",
+        "contentGroup": "streetwear-clothing",
+        "minimumBid": 15,
+        "name": "Tee (SS20) White",
+        "primaryCategory": "Supreme",
+        "secondaryCategory": "T-Shirts",
+        "usHtsCode": "6109100012",
+        "usHtsDescription": "Mens Cotton T-Shirt",
+        "productCategory": "streetwear",
+        "releaseDate": "2020-07-02",
+        "shoe": "Supreme Motion Logo",
+        "shortDescription": "Supreme-Motion-Logo-Tee-SS20-White",
+        "tickerSymbol": "SUP-MOLTWH",
+        "title": "Supreme Motion Logo Tee (SS20) White",
+        "dataType": "product",
+        "urlKey": "supreme-motion-logo-tee-ss20-white",
+        "sizeLocale": "us",
+        "sizeTitle": "U.S. Men's Size",
+        "sizeDescriptor": "Size",
+        "sizeAllDescriptor": "All",
+        "description": "Supreme's Motion Logo returned for a second time during SS20 in t-shirt form alongside nine other summer tees. The Motion Logo T-shirt released in seven colorways, matching the colorways of the Motion Logo Hoodies released earlier in SS20, and feature the Surpeme logo on the chest. The Surpeme Motion Logo released on July 2nd, 2020, and retailed for $38 USD.",
+        "lithiumIonBattery": false,
+        "type": false,
+        "aLim": 3000000,
+        "year": 2020,
+        "shippingGroup": "streetwear",
+        "traits": [
+            {
+                "name": "Season",
+                "value": "SS20",
+                "filterable": true,
+                "visible": true,
+                "highlight": true
+            },
+            {
+                "name": "Color",
+                "value": "White",
+                "filterable": false,
+                "visible": true,
+                "highlight": true
+            },
+            {
+                "name": "Release Date",
+                "value": "2020-07-02",
+                "filterable": true,
+                "visible": true,
+                "highlight": false
+            },
+            {
+                "name": "Retail",
+                "value": 38,
+                "filterable": true,
+                "visible": true,
+                "highlight": false,
+                "format": "currency"
+            }
+        ],
+        "meta": {
+            "charity": false,
+            "raffle": false,
+            "mobile_only": false,
+            "restock": false,
+            "deleted": false,
+            "hidden": false,
+            "lock_buying": false,
+            "lock_selling": false,
+            "redirected": false
+        },
+        "PortfolioItems": [],
+        "shipping": {
+            "totalDaysToShip": 2,
+            "hasAdditionalDaysToShip": false,
+            "deliveryDaysLowerBound": 6,
+            "deliveryDaysUpperBound": 10
+        },
+        "enhancedImage": {},
+        "media": {
+            "360": [],
+            "imageUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+            "smallImageUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+            "thumbUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+            "has360": false,
+            "gallery": []
+        },
+        "charityCondition": 0,
+        "breadcrumbs": [
+            {
+                "level": 1,
+                "name": "Home",
+                "url": "/",
+                "isBrand": false
+            },
+            {
+                "level": 2,
+                "name": "streetwear",
+                "url": "/streetwear",
+                "isBrand": false
+            },
+            {
+                "level": 3,
+                "name": "Supreme",
+                "url": "/supreme",
+                "isBrand": true
+            },
+            {
+                "level": 4,
+                "name": "T-Shirts",
+                "url": "/supreme/t-shirts",
+                "isBrand": false
+            },
+            {
+                "level": 5,
+                "name": "Supreme Motion Logo Tee (SS20) White",
+                "url": "/supreme-motion-logo-tee-ss20-white",
+                "isBrand": false
+            }
+        ],
+        "market": {},
+        "children": {
+            "6482b54e-2e43-4504-a5d4-417ff627f631": {
+                "id": "6482b54e-2e43-4504-a5d4-417ff627f631",
+                "uuid": "6482b54e-2e43-4504-a5d4-417ff627f631",
+                "brand": "Supreme",
+                "condition": "New",
+                "countryOfManufacture": "US",
+                "gender": "men",
+                "contentGroup": "streetwear-clothing",
+                "minimumBid": 15,
+                "name": "Tee (SS20) White",
+                "primaryCategory": "Supreme",
+                "secondaryCategory": "T-Shirts",
+                "usHtsCode": "6109100012",
+                "usHtsDescription": "Mens Cotton T-Shirt",
+                "productCategory": "streetwear",
+                "releaseDate": "2020-07-02",
+                "shoe": "Supreme Motion Logo",
+                "shortDescription": "Supreme-Motion-Logo-Tee-SS20-White",
+                "tickerSymbol": "SUP-MOLTWH",
+                "title": "Supreme Motion Logo Tee (SS20) White",
+                "dataType": "product",
+                "urlKey": "supreme-motion-logo-tee-ss20-white",
+                "sizeLocale": "us",
+                "sizeTitle": "U.S. Men's Size",
+                "sizeDescriptor": "Size",
+                "sizeAllDescriptor": "All",
+                "description": "Supreme's Motion Logo returned for a second time during SS20 in t-shirt form alongside nine other summer tees. The Motion Logo T-shirt released in seven colorways, matching the colorways of the Motion Logo Hoodies released earlier in SS20, and feature the Surpeme logo on the chest. The Surpeme Motion Logo released on July 2nd, 2020, and retailed for $38 USD.",
+                "lithiumIonBattery": false,
+                "type": false,
+                "aLim": 3000000,
+                "year": 2020,
+                "shippingGroup": "streetwear",
+                "traits": [
+                    {
+                        "name": "Season",
+                        "value": "SS20",
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": true
+                    },
+                    {
+                        "name": "Color",
+                        "value": "White",
+                        "filterable": false,
+                        "visible": true,
+                        "highlight": true
+                    },
+                    {
+                        "name": "Release Date",
+                        "value": "2020-07-02",
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": false
+                    },
+                    {
+                        "name": "Retail",
+                        "value": 38,
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": false,
+                        "format": "currency"
+                    }
+                ],
+                "meta": {
+                    "charity": false,
+                    "raffle": false,
+                    "mobile_only": false,
+                    "restock": false,
+                    "deleted": false,
+                    "hidden": false,
+                    "lock_buying": false,
+                    "lock_selling": false,
+                    "redirected": false
+                },
+                "PortfolioItems": [],
+                "shipping": {
+                    "totalDaysToShip": 2,
+                    "hasAdditionalDaysToShip": false,
+                    "deliveryDaysLowerBound": 6,
+                    "deliveryDaysUpperBound": 10
+                },
+                "enhancedImage": {},
+                "media": {
+                    "360": [],
+                    "imageUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "smallImageUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "thumbUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "has360": false,
+                    "gallery": []
+                },
+                "charityCondition": 0,
+                "breadcrumbs": [
+                    {
+                        "level": 1,
+                        "name": "Home",
+                        "url": "/",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 2,
+                        "name": "streetwear",
+                        "url": "/streetwear",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 3,
+                        "name": "Supreme",
+                        "url": "/supreme",
+                        "isBrand": true
+                    },
+                    {
+                        "level": 4,
+                        "name": "T-Shirts",
+                        "url": "/supreme/t-shirts",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 5,
+                        "name": "Supreme Motion Logo Tee (SS20) White",
+                        "url": "/supreme-motion-logo-tee-ss20-white",
+                        "isBrand": false
+                    }
+                ],
+                "market": {},
+                "parentId": "53c34b84-bc33-4214-abbb-6d9a47920f40",
+                "parentUuid": "53c34b84-bc33-4214-abbb-6d9a47920f40",
+                "shoeSize": "S",
+                "sizeSortOrder": 0,
+                "skuVariantGroup": null
+            },
+            "4980de78-a4f5-41c8-8668-b7cf457b98c4": {
+                "id": "4980de78-a4f5-41c8-8668-b7cf457b98c4",
+                "uuid": "4980de78-a4f5-41c8-8668-b7cf457b98c4",
+                "brand": "Supreme",
+                "condition": "New",
+                "countryOfManufacture": "US",
+                "gender": "men",
+                "contentGroup": "streetwear-clothing",
+                "minimumBid": 15,
+                "name": "Tee (SS20) White",
+                "primaryCategory": "Supreme",
+                "secondaryCategory": "T-Shirts",
+                "usHtsCode": "6109100012",
+                "usHtsDescription": "Mens Cotton T-Shirt",
+                "productCategory": "streetwear",
+                "releaseDate": "2020-07-02",
+                "shoe": "Supreme Motion Logo",
+                "shortDescription": "Supreme-Motion-Logo-Tee-SS20-White",
+                "tickerSymbol": "SUP-MOLTWH",
+                "title": "Supreme Motion Logo Tee (SS20) White",
+                "dataType": "product",
+                "urlKey": "supreme-motion-logo-tee-ss20-white",
+                "sizeLocale": "us",
+                "sizeTitle": "U.S. Men's Size",
+                "sizeDescriptor": "Size",
+                "sizeAllDescriptor": "All",
+                "description": "Supreme's Motion Logo returned for a second time during SS20 in t-shirt form alongside nine other summer tees. The Motion Logo T-shirt released in seven colorways, matching the colorways of the Motion Logo Hoodies released earlier in SS20, and feature the Surpeme logo on the chest. The Surpeme Motion Logo released on July 2nd, 2020, and retailed for $38 USD.",
+                "lithiumIonBattery": false,
+                "type": false,
+                "aLim": 3000000,
+                "year": 2020,
+                "shippingGroup": "streetwear",
+                "traits": [
+                    {
+                        "name": "Season",
+                        "value": "SS20",
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": true
+                    },
+                    {
+                        "name": "Color",
+                        "value": "White",
+                        "filterable": false,
+                        "visible": true,
+                        "highlight": true
+                    },
+                    {
+                        "name": "Release Date",
+                        "value": "2020-07-02",
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": false
+                    },
+                    {
+                        "name": "Retail",
+                        "value": 38,
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": false,
+                        "format": "currency"
+                    }
+                ],
+                "meta": {
+                    "charity": false,
+                    "raffle": false,
+                    "mobile_only": false,
+                    "restock": false,
+                    "deleted": false,
+                    "hidden": false,
+                    "lock_buying": false,
+                    "lock_selling": false,
+                    "redirected": false
+                },
+                "PortfolioItems": [],
+                "shipping": {
+                    "totalDaysToShip": 2,
+                    "hasAdditionalDaysToShip": false,
+                    "deliveryDaysLowerBound": 6,
+                    "deliveryDaysUpperBound": 10
+                },
+                "enhancedImage": {},
+                "media": {
+                    "360": [],
+                    "imageUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "smallImageUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "thumbUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "has360": false,
+                    "gallery": []
+                },
+                "charityCondition": 0,
+                "breadcrumbs": [
+                    {
+                        "level": 1,
+                        "name": "Home",
+                        "url": "/",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 2,
+                        "name": "streetwear",
+                        "url": "/streetwear",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 3,
+                        "name": "Supreme",
+                        "url": "/supreme",
+                        "isBrand": true
+                    },
+                    {
+                        "level": 4,
+                        "name": "T-Shirts",
+                        "url": "/supreme/t-shirts",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 5,
+                        "name": "Supreme Motion Logo Tee (SS20) White",
+                        "url": "/supreme-motion-logo-tee-ss20-white",
+                        "isBrand": false
+                    }
+                ],
+                "market": {},
+                "parentId": "53c34b84-bc33-4214-abbb-6d9a47920f40",
+                "parentUuid": "53c34b84-bc33-4214-abbb-6d9a47920f40",
+                "shoeSize": "M",
+                "sizeSortOrder": 1,
+                "skuVariantGroup": null
+            },
+            "5f4726a2-c146-4c19-9650-aa3322a27663": {
+                "id": "5f4726a2-c146-4c19-9650-aa3322a27663",
+                "uuid": "5f4726a2-c146-4c19-9650-aa3322a27663",
+                "brand": "Supreme",
+                "condition": "New",
+                "countryOfManufacture": "US",
+                "gender": "men",
+                "contentGroup": "streetwear-clothing",
+                "minimumBid": 15,
+                "name": "Tee (SS20) White",
+                "primaryCategory": "Supreme",
+                "secondaryCategory": "T-Shirts",
+                "usHtsCode": "6109100012",
+                "usHtsDescription": "Mens Cotton T-Shirt",
+                "productCategory": "streetwear",
+                "releaseDate": "2020-07-02",
+                "shoe": "Supreme Motion Logo",
+                "shortDescription": "Supreme-Motion-Logo-Tee-SS20-White",
+                "tickerSymbol": "SUP-MOLTWH",
+                "title": "Supreme Motion Logo Tee (SS20) White",
+                "dataType": "product",
+                "urlKey": "supreme-motion-logo-tee-ss20-white",
+                "sizeLocale": "us",
+                "sizeTitle": "U.S. Men's Size",
+                "sizeDescriptor": "Size",
+                "sizeAllDescriptor": "All",
+                "description": "Supreme's Motion Logo returned for a second time during SS20 in t-shirt form alongside nine other summer tees. The Motion Logo T-shirt released in seven colorways, matching the colorways of the Motion Logo Hoodies released earlier in SS20, and feature the Surpeme logo on the chest. The Surpeme Motion Logo released on July 2nd, 2020, and retailed for $38 USD.",
+                "lithiumIonBattery": false,
+                "type": false,
+                "aLim": 3000000,
+                "year": 2020,
+                "shippingGroup": "streetwear",
+                "traits": [
+                    {
+                        "name": "Season",
+                        "value": "SS20",
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": true
+                    },
+                    {
+                        "name": "Color",
+                        "value": "White",
+                        "filterable": false,
+                        "visible": true,
+                        "highlight": true
+                    },
+                    {
+                        "name": "Release Date",
+                        "value": "2020-07-02",
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": false
+                    },
+                    {
+                        "name": "Retail",
+                        "value": 38,
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": false,
+                        "format": "currency"
+                    }
+                ],
+                "meta": {
+                    "charity": false,
+                    "raffle": false,
+                    "mobile_only": false,
+                    "restock": false,
+                    "deleted": false,
+                    "hidden": false,
+                    "lock_buying": false,
+                    "lock_selling": false,
+                    "redirected": false
+                },
+                "PortfolioItems": [],
+                "shipping": {
+                    "totalDaysToShip": 2,
+                    "hasAdditionalDaysToShip": false,
+                    "deliveryDaysLowerBound": 6,
+                    "deliveryDaysUpperBound": 10
+                },
+                "enhancedImage": {},
+                "media": {
+                    "360": [],
+                    "imageUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "smallImageUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "thumbUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "has360": false,
+                    "gallery": []
+                },
+                "charityCondition": 0,
+                "breadcrumbs": [
+                    {
+                        "level": 1,
+                        "name": "Home",
+                        "url": "/",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 2,
+                        "name": "streetwear",
+                        "url": "/streetwear",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 3,
+                        "name": "Supreme",
+                        "url": "/supreme",
+                        "isBrand": true
+                    },
+                    {
+                        "level": 4,
+                        "name": "T-Shirts",
+                        "url": "/supreme/t-shirts",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 5,
+                        "name": "Supreme Motion Logo Tee (SS20) White",
+                        "url": "/supreme-motion-logo-tee-ss20-white",
+                        "isBrand": false
+                    }
+                ],
+                "market": {},
+                "parentId": "53c34b84-bc33-4214-abbb-6d9a47920f40",
+                "parentUuid": "53c34b84-bc33-4214-abbb-6d9a47920f40",
+                "shoeSize": "L",
+                "sizeSortOrder": 2,
+                "skuVariantGroup": null
+            },
+            "d9124abd-4e5f-4fd9-8a5f-4b684a017498": {
+                "id": "d9124abd-4e5f-4fd9-8a5f-4b684a017498",
+                "uuid": "d9124abd-4e5f-4fd9-8a5f-4b684a017498",
+                "brand": "Supreme",
+                "condition": "New",
+                "countryOfManufacture": "US",
+                "gender": "men",
+                "contentGroup": "streetwear-clothing",
+                "minimumBid": 15,
+                "name": "Tee (SS20) White",
+                "primaryCategory": "Supreme",
+                "secondaryCategory": "T-Shirts",
+                "usHtsCode": "6109100012",
+                "usHtsDescription": "Mens Cotton T-Shirt",
+                "productCategory": "streetwear",
+                "releaseDate": "2020-07-02",
+                "shoe": "Supreme Motion Logo",
+                "shortDescription": "Supreme-Motion-Logo-Tee-SS20-White",
+                "tickerSymbol": "SUP-MOLTWH",
+                "title": "Supreme Motion Logo Tee (SS20) White",
+                "dataType": "product",
+                "urlKey": "supreme-motion-logo-tee-ss20-white",
+                "sizeLocale": "us",
+                "sizeTitle": "U.S. Men's Size",
+                "sizeDescriptor": "Size",
+                "sizeAllDescriptor": "All",
+                "description": "Supreme's Motion Logo returned for a second time during SS20 in t-shirt form alongside nine other summer tees. The Motion Logo T-shirt released in seven colorways, matching the colorways of the Motion Logo Hoodies released earlier in SS20, and feature the Surpeme logo on the chest. The Surpeme Motion Logo released on July 2nd, 2020, and retailed for $38 USD.",
+                "lithiumIonBattery": false,
+                "type": false,
+                "aLim": 3000000,
+                "year": 2020,
+                "shippingGroup": "streetwear",
+                "traits": [
+                    {
+                        "name": "Season",
+                        "value": "SS20",
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": true
+                    },
+                    {
+                        "name": "Color",
+                        "value": "White",
+                        "filterable": false,
+                        "visible": true,
+                        "highlight": true
+                    },
+                    {
+                        "name": "Release Date",
+                        "value": "2020-07-02",
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": false
+                    },
+                    {
+                        "name": "Retail",
+                        "value": 38,
+                        "filterable": true,
+                        "visible": true,
+                        "highlight": false,
+                        "format": "currency"
+                    }
+                ],
+                "meta": {
+                    "charity": false,
+                    "raffle": false,
+                    "mobile_only": false,
+                    "restock": false,
+                    "deleted": false,
+                    "hidden": false,
+                    "lock_buying": false,
+                    "lock_selling": false,
+                    "redirected": false
+                },
+                "PortfolioItems": [],
+                "shipping": {
+                    "totalDaysToShip": 2,
+                    "hasAdditionalDaysToShip": false,
+                    "deliveryDaysLowerBound": 6,
+                    "deliveryDaysUpperBound": 10
+                },
+                "enhancedImage": {},
+                "media": {
+                    "360": [],
+                    "imageUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "smallImageUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "thumbUrl": "https://stockx.imgix.net/products/streetwear/Supreme-Motion-Logo-Tee-SS20-White.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1593698033",
+                    "has360": false,
+                    "gallery": []
+                },
+                "charityCondition": 0,
+                "breadcrumbs": [
+                    {
+                        "level": 1,
+                        "name": "Home",
+                        "url": "/",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 2,
+                        "name": "streetwear",
+                        "url": "/streetwear",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 3,
+                        "name": "Supreme",
+                        "url": "/supreme",
+                        "isBrand": true
+                    },
+                    {
+                        "level": 4,
+                        "name": "T-Shirts",
+                        "url": "/supreme/t-shirts",
+                        "isBrand": false
+                    },
+                    {
+                        "level": 5,
+                        "name": "Supreme Motion Logo Tee (SS20) White",
+                        "url": "/supreme-motion-logo-tee-ss20-white",
+                        "isBrand": false
+                    }
+                ],
+                "market": {},
+                "parentId": "53c34b84-bc33-4214-abbb-6d9a47920f40",
+                "parentUuid": "53c34b84-bc33-4214-abbb-6d9a47920f40",
+                "shoeSize": "XL",
+                "sizeSortOrder": 3,
+                "skuVariantGroup": null
+            }
+        }
+    }
+}
